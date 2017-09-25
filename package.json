@@ -1,0 +1,21 @@
+{
+  "name": "datacollectrestapi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.4.1",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "jsonfile": "^3.0.0",
+    "morgan": "~1.8.1",
+    "multimap": "^1.0.2",
+    "pg": "^6.2.2",
+    "serve-favicon": "~2.4.2"
+  }
+}
